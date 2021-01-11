@@ -12,8 +12,8 @@ Machine Learning and Deep Learning Projects
     - Random Forests (RF)
     - Deep Neural Networks (DNN)
       
-  For all algorithms except DNN, Grid Search is used for hyperparameter tuning. Model evaluation is based on 10-fold Cross Validation.
-  Best Results: Accuracy close to 96% (DNN)
+    For all algorithms except DNN, Grid Search is used for hyperparameter tuning. Model evaluation is based on 10-fold Cross Validation.
+    Best Results: Accuracy close to 96% (DNN)
   
   
   # 2. Sentiment Analysis using state-of-the-art algorithms (Text Classification)
