@@ -2,15 +2,15 @@
 Machine Learning and Deep Learning Projects
 
 # 1. User Identification based on walking pattern (Classification)
-  (WalkingActivityID.pdf)
-  
-  Dataset from UCI Machine Learning Repository. Refers to 22 participants walking. Data gathered from smartphone's accelerometer.
-  Algorithms used:
-    - Support Vector Machines (SVM)
-    - SVM with Stohastic Gradient Descent (SVM-SGD)
-    - K-Nearest Neighbours (K-NN)
-    - Random Forests (RF)
-    - Deep Neural Networks (DNN)
+    (WalkingActivityID.pdf)
+
+    Dataset from UCI Machine Learning Repository. Refers to 22 participants walking. Data gathered from smartphone's accelerometer.
+    Algorithms used:
+      - Support Vector Machines (SVM)
+      - SVM with Stohastic Gradient Descent (SVM-SGD)
+      - K-Nearest Neighbours (K-NN)
+      - Random Forests (RF)
+      - Deep Neural Networks (DNN)
       
     For all algorithms except DNN, Grid Search is used for hyperparameter tuning. Model evaluation is based on 10-fold Cross Validation.
     Best Results: Accuracy close to 96% (DNN)
