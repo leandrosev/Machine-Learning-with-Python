@@ -1,6 +1,9 @@
 # Machine-Learning-Python
 Machine Learning and Deep Learning Projects
 
+Evangelidakis Leandros
+
+
 # 1. User Identification based on walking pattern (Classification)
     (WalkingActivityID.pdf)
 
@@ -19,7 +22,7 @@ Machine Learning and Deep Learning Projects
   # 2. Sentiment Analysis using state-of-the-art algorithms (Text Classification)
     (imdb_reviews.ipynb + sentiment_analysis.pdf)
     
-    Dataset from Stanford Database. Contains 50.000 movie reviews. Half of them is used for training and the other half for evaluation.
+    Dataset from Stanford Database. Contains 50.000 movie reviews. Half of them are used for training and the other half for evaluation.
     Because of heavy duty algorithms, Goolge Colab with GPU support was used and is recommended.
     Algorithms used:
       - Naive Bayes Support Vector Machines (NBSVM)
