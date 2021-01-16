@@ -1,4 +1,4 @@
-# Machine-Learning-Python
+# Machine-Learning-with-Python
 Machine Learning and Deep Learning Projects
 
 Evangelidakis Leandros
@@ -34,4 +34,16 @@ Evangelidakis Leandros
       Best Results: Accuracy more than 94% (BERT)
       
       
+   # 3. Auction sales analysis. Pedicting Close Price, probablity of selling and Starting Bid optimization
+    (auction_sales.ipynb)
+    
+    Dataset from Ebay. Contains auction data of 12 popular items, from 150 users.
+    Algorithms used:
+        -  Linear, Ridge and Lasso Regression
+        -  Logistic Regression
+        -  Random Forests and Stohastic Gradient Descent Reggresors
+        -  Random Forests, SVM and kNN Classifiers
+        
+    For hyperparameter tuning, Grid-Search was used.     
+        
       
