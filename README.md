@@ -34,7 +34,7 @@ Evangelidakis Leandros
       Best Results: Accuracy more than 94% (BERT)
       
       
-   # 3. Auction sales analysis. Pedicting Close Price, probablity of selling and Starting Bid optimization
+   # 3. Auction sales analysis. Pedicting Closing Price, probablity of selling and Starting Bid optimization
     (auction_sales.ipynb)
     
     Dataset from Ebay. Contains auction data of 12 popular items, from 150 users.
