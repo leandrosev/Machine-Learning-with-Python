@@ -5,7 +5,7 @@ Evangelidakis Leandros
 
 
 # 1. User Identification based on walking pattern (Classification)
-    (WalkingActivityID.pdf)
+    (WalkingActivityID.pdf (Greek) )
 
     Dataset from UCI Machine Learning Repository. Refers to 22 participants walking. Data gathered from smartphone's accelerometer.
     Algorithms used:
@@ -17,10 +17,11 @@ Evangelidakis Leandros
       
     For all algorithms except DNN, Grid Search is used for hyperparameter tuning. Model evaluation is based on 10-fold Cross Validation.
     Best Results: Accuracy close to 96% (DNN)
-  
+    
+   ![results](https://i.ibb.co/CnL72C5/results.png)  
   
   # 2. Sentiment Analysis using state-of-the-art algorithms (Text Classification)
-    (imdb_reviews.ipynb + sentiment_analysis.pdf)
+    (imdb_reviews.ipynb + sentiment_analysis.pdf (Greek) )
     
     Dataset from Stanford Database. Contains 50.000 movie reviews. Half of them are used for training and the other half for evaluation.
     Because of heavy duty algorithms, Goolge Colab with GPU support was used and is recommended.
@@ -32,10 +33,11 @@ Evangelidakis Leandros
       
       For hyperparameter tuning, SGD with Warm Restarts and Cyclical Learning Rates were used.
       Best Results: Accuracy more than 94% (BERT)
-      
+   
+  ![sentiment](https://i.ibb.co/KGFQ5zX/sentiment.png)
       
    # 3. Auction sales analysis. Pedicting Closing Price, probablity of selling and Starting Bid optimization
-    (auction_sales.ipynb)
+    (auction_sales.ipynb (Greek) )
     
     Dataset from Ebay. Contains auction data of 12 popular items, from 150 users.
     Algorithms used:
@@ -46,4 +48,10 @@ Evangelidakis Leandros
         
     For hyperparameter tuning, Grid-Search was used.     
         
-      
+   Random Forest predictions:
+   ![rf](https://i.ibb.co/6gLbY0b/rf.png)
+   
+   Model Comparison:
+   
+   ![models](https://i.ibb.co/mGZZRpQ/results-prices.png)
+   
