@@ -36,7 +36,7 @@ Evangelidakis Leandros
    
   ![sentiment](https://i.ibb.co/KGFQ5zX/sentiment.png)
       
-   # 3. Auction sales analysis. Pedicting Closing Price, probability of selling an item and Starting Bid price optimization
+   # 3. Auction sales analysis. Predicting Closing Price, probability of selling an item and Starting Bid price optimization
     (auction_sales.ipynb (Greek) )
     
     Dataset from Ebay. Contains auction data of 12 popular items, from 150 users.
