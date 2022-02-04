@@ -5,7 +5,7 @@ Evangelidakis Leandros
 
 
 # 1. User Identification based on walking pattern (Classification)
-    (WalkingActivityID.pdf (Greek) )
+    (WalkingActivityID.pdf (Greek), AccelerometerDataset.ipynb (best run using Google Colab) )
 
     Dataset from UCI Machine Learning Repository. Refers to 22 participants walking. Data gathered from smartphone's accelerometer.
     Algorithms used:
