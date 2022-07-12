@@ -43,7 +43,7 @@ Evangelidakis Leandros
     Algorithms used:
         -  Linear, Ridge and Lasso Regression
         -  Logistic Regression
-        -  Random Forests and Stohastic Gradient Descent Reggresors
+        -  Random Forests and Stohastic Gradient Descent Regresors
         -  Random Forests, SVM and kNN Classifiers
         
     For hyperparameter tuning, Grid-Search was used.     
@@ -53,5 +53,5 @@ Evangelidakis Leandros
    
    Model Comparison:
    
-   ![models](https://i.ibb.co/mGZZRpQ/results-prices.png)
+   ![models](https://uc9be965d01f91f994fb9b2a2378.previews.dropboxusercontent.com/p/thumb/ABnoTHerAKz1tXBuRBvzhThbTFSDqF4TgkN6NKwXNFwpZvtKZ0_7Jq-C22_c0_XxDcfo-y_4AO1n3YaKkuti76hGh25-0kVyV4ab5qnFRuC20S5jS5JzoFOJWujrx1bWtjbkvwrhjc26LU8nxr2sCvlgJM8_whaLgFQTrVweUMCywUXQ3xtdjRnKB-hmyPQvPOWcXTIVzh_ZxFUh9iA2pSc0j--zXGFjIpDhUIdbpe_qeIifrv3AKqGrkDlDQ255CF1HHqRYVnZ_dIuCRgeUoRENEWXMU4R7Mi4SXAAKL9eP-WxjlDGWzIsLJehbJ3qkZQ1jZMHnuhr-SS_OFqn4K01x8SAGbHiCP69OLxXhIRO6Wry3FXJTcbLTJMdLW8r5VLrx1aqorqdsjz4_ErKvaRprs9gKCjuO6jsalOaQWAuGaQ/p.png)
    
