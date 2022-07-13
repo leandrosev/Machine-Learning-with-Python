@@ -21,7 +21,7 @@ Evangelidakis Leandros
    ![results](https://i.ibb.co/CnL72C5/results.png)  
   
   # 2. Sentiment Analysis using state-of-the-art algorithms (Text Classification)
-    (imdb_reviews.ipynb + sentiment_analysis.pdf (Greek) )
+    (imdb_reviews.ipynb )
     
     Dataset from Stanford Database. Contains 50.000 movie reviews. Half of them are used for training and the other half for evaluation.
     Because of heavy duty algorithms, Goolge Colab with GPU support was used and is recommended.
@@ -34,7 +34,7 @@ Evangelidakis Leandros
       For hyperparameter tuning, SGD with Warm Restarts and Cyclical Learning Rates were used.
       Best Results: Accuracy more than 94% (BERT)
    
-  ![sentiment](https://i.ibb.co/KGFQ5zX/sentiment.png)
+  ![sentiment](https://tinypic.host/images/2022/07/14/table.png)
       
    # 3. Auction sales analysis. Predicting Closing Price, probability of selling an item and Starting Bid price optimization
     (auction_sales.ipynb (Greek) )
