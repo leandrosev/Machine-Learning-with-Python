@@ -34,7 +34,6 @@ Evangelidakis Leandros
       For hyperparameter tuning, SGD with Warm Restarts and Cyclical Learning Rates were used.
       Best Results: Accuracy more than 94% (BERT)
    
-  ![sentiment](https://tinypic.host/images/2022/07/14/table.png)
       
    # 3. Auction sales analysis. Predicting Closing Price, probability of selling an item and Starting Bid price optimization
     (auction_sales.ipynb (Greek) )
